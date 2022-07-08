@@ -1,0 +1,325 @@
+
+/*#062C30
+#C74B50
+#FDAF75
+#3A3845
+#65DA98
+#305252
+#3E1F92
+#02044A
+#F0F7F7
+#006666
+#0B3142
+#111D52
+#0F1825
+#040e21
+
+https://scale.com/?ref=landingfolio
+https://generated.photos/?ref=landingfolio
+https://apres.io/?ref=landingfolio
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+
+.left-logo-menu-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.site-branding {
+    width: 40%;
+}
+#site-navigation ul#primary-menu {
+    justify-content: flex-start;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    background: #F7F9FA;
+}
+
+a{
+    text-decoration: none;
+}
+header#masthead {
+    background: #131526;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header#masthead a{
+    color: #fff;
+}
+
+ul#primary-menu li {
+    margin-left: 35px;
+}
+ul#primary-menu {
+    justify-content: flex-end;
+}
+p.site-title {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+section.default-sec {
+    padding: 60px 0;
+}
+ul#right-menu {
+    list-style: none;
+    padding: -0;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    justify-content: flex-end;
+}
+.btn-1 a, .btn-2 a {
+    display: inline-block;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 40px;
+    text-transform: uppercase;
+}
+.btn-1 a {
+    background: #06de92;
+    color: #000 !important;
+    border: 1px solid transparent;
+}
+.btn-2 a {
+    border: 1px solid #fff;
+}
+li#menu-item-173 {
+    margin-left: 25px;
+}
+footer#site-footer img {
+    max-width: 250px;
+}
+footer#site-footer {
+    background: #131526;
+    padding: 60px 0;
+}
+.site-info a, .site-info {
+    color: #fff;
+}
+.site-info.text-center {
+    margin-top: 25px;
+}
+.ml-2{
+    margin-left: 30px;
+}
+.popover-content.active {
+    display: block !important;
+}
+
+.filter-top-part,
+div#show-div,.filter-bottom-part  {
+    justify-content: space-between;
+}
+
+
+.show-popover,
+.filter-top-part,
+.filter-bottom-part,
+div#show-div {
+    display: flex;
+    align-items: center;
+}
+.common-filter {
+    background: #fff;
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    width: 100%;
+    height: 35px;
+    padding: 0 5px;
+    font-size: 14px;
+    color: #3c3c3c;
+    font-weight: 500;
+    line-height: 35px;
+}
+.filter-text {
+    margin-right: 12px;
+}
+.form-filters {
+    background: #fff;
+}
+.show-hide-filter {
+    width: 19%;
+    position: relative;
+}
+.f-language, .f-category{
+    width: 10%;
+}
+
+.from-div, .to-div {
+    /*width: 48%;*/
+}
+.popover-content {
+    position: absolute;
+    width: 320px;
+    box-shadow: 0 5px 35px #dedede;
+    border-radius: 5px;
+    top: 50px;
+    left: -50px;
+    padding: 15px 0;
+    z-index: 9;
+    background: #fff;
+}
+div#show-div input {
+    width: 100%;
+    color: #000;
+    padding: 0 5px;
+    height: 35px;
+    line-height: 35px;
+}
+div#show-div label {
+    text-transform: capitalize;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+
+.site-branding img {
+    max-width: 180px;
+}
+
+
+.top-heading-divs, article.table-loop-item {
+    display: flex;
+    flex: 1 0 auto;
+    min-width: 0px;
+}
+
+.div_tag_2.table-heading-div,
+.item_tag_2.table-data-div,
+.div_tag_3.table-heading-div,
+.item_tag_3.table-data-div,
+.div_tag_4.table-heading-div,
+.item_tag_4.table-data-div,
+.div_tag_5.table-heading-div,
+.item_tag_5.table-data-div,
+.div_tag_6.table-heading-div,
+.item_tag_6.table-data-div,
+.div_tag_7.table-heading-div,
+.item_tag_7.table-data-div,
+.div_tag_8.table-heading-div,
+.item_tag_7.table-data-div,
+.div_tag_8.table-heading-div,
+.item_tag_9.table-data-div{
+    position: relative;
+    box-sizing: border-box;
+    min-width: 0px;
+}
+
+.div_tag_1.table-heading-div,
+.item_tag_1.table-data-div{
+    position: sticky;
+    flex: 200 0 auto;
+    width: 200px;
+    z-index: 3;
+    left: 0px;
+    box-sizing: border-box;
+    min-width: 0px;
+}
+.div_tag_2.table-heading-div,
+.item_tag_2.table-data-div{
+    
+    flex: 250 0 auto;
+    width: 250px;
+}
+.div_tag_3.table-heading-div,
+.item_tag_3.table-data-div {
+    flex: 110 0 auto;
+    width: 110px;
+}
+
+.div_tag_4.table-heading-div,
+.item_tag_4.table-data-div,
+.div_tag_5.table-heading-div,
+.item_tag_5.table-data-div,
+.item_tag_6.table-data-div{
+    flex: 100 0 auto;
+    width: 100px;
+    text-align: center;
+    justify-content: center;
+}
+
+.div_tag_6.table-heading-div,
+.item_tag_6.table-data-div {
+    flex: 100 0 auto;
+    width: 100px;
+    text-align: center;
+}
+
+.div_tag_7.table-heading-div,
+.item_tag_7.table-data-div {
+    flex: 150 0 auto;
+    width: 150px;
+    text-align: center;
+}
+
+.table-data-div ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.div_tag_8.table-heading-div, .item_tag_8.table-data-div {
+    flex: 200 0 auto;
+    width: 200px;
+    text-align: center;
+}
+.div_tag_9.table-heading-div,
+.item_tag_9.table-data-div {
+    flex: 150 0 auto;
+    min-width: 0px;
+    width: 150px;
+}
+.table-heading-div.extra-field {
+    flex: 120 0 auto;
+    min-width: 0px;
+    width: 120px;
+    text-align: center;
+}
+.table-data-div.extra-field {
+    flex: 120 0 auto;
+    min-width: 0px;
+    width: 120px;
+    text-align: center;
+}
+
+.product-table-wrap {
+    overflow-x: auto;
+}
+
+ul.niche-list li svg {
+    height: 20px;
+    width: auto;
+}
+
+/*form.cart-field.cart{
+    max-width: 60%;
+}*/
+
+.input-text.qty {
+    width: 100px;
+}
+
+/*API REQUEST DATA*/.
+
+TOKAN : eaefb9584ab1541994d9d6cace17efa7d2e67b5a
+
+
+/*FOR DOMAIN RATING RESPONSE*/
+https://apiv2.ahrefs.com?token=eaefb9584ab1541994d9d6cace17efa7d2e67b5a&target=interia.pl&mode=subdomains&from=domain_rating&limit=1&output=json&select=domain_rating
+
+
+/*for TRAFFIC RATING RESPONSE*/
+https://apiv2.ahrefs.com?token=eaefb9584ab1541994d9d6cace17efa7d2e67b5a&target=interia.pl&mode=subdomains&from=positions_metrics&limit=1&output=json&select=traffic
+
+
+/*for Refer Domain RESPONSE*/
+https://apiv2.ahrefs.com?token=eaefb9584ab1541994d9d6cace17efa7d2e67b5a&target=interia.pl&mode=subdomains&from=refdomains&limit=1&output=json&select=refdomain
+
+
